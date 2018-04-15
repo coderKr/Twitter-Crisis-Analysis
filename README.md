@@ -9,5 +9,5 @@ Data for the project was taken from the CLP Psych Shared Task 2015 Data set: htt
 
 
 ## Contributing
-All code, writing, and analysis in this repository is done by Kripa Agarwal and Ashley John for academic purposes. 
+All code, writing, and analysis in this repository is done by Kripa Agarwal (ka467@cornell.edu) and Ashley John (aaj58@cornell.edu) for academic purposes at Cornell University in Spring 2018. 
 
