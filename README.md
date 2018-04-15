@@ -5,7 +5,7 @@ The purpose of this analysis to use NLP to identify users who suffer from mental
 All code is found in the Jupyter notebook for Part 1. 
 
 ## Data
-Data for the project was taken from the CLP Psych Shared Task 2015 Data set: http://www.cs.jhu.edu/~mdredze/datasets/clpsych_shared_task_2015/. Per IRB protocol, the data is not housed here to maintain user privacy. 
+Data for the project was taken from the [CLP Psych Shared Task 2015 Data set](http://www.cs.jhu.edu/~mdredze/datasets/clpsych_shared_task_2015/). Per IRB protocol, the data is not housed here to maintain user privacy. 
 
 
 ## Contributing
